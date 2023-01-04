@@ -1,5 +1,6 @@
 export class Empleado {
-    constructor( legajo: number,
+    constructor( 
+        legajo: number,
         nombre: string,
         apellido: string,
         sexo: string,

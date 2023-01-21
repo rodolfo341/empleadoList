@@ -1,6 +1,5 @@
 import { Component, OnInit } from '@angular/core';
 import { Empleado } from 'src/app/models/Empleado';
-//import { Empleado } from 'src/app/models/Empleado';
 
 
 @Component({

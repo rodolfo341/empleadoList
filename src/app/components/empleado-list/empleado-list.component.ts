@@ -19,3 +19,5 @@ export class EmpleadoListComponent implements OnInit {
 
     ngOnInit(): void { }
 }
+
+

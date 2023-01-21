@@ -19,7 +19,7 @@ export class EmpleadoListComponent implements OnInit {
     ngOnInit(): void { }
 
     obtenerTotalEmpleados(): number {
-        return this.obtenerTotalEmpleados.length;
+        return this.listEmpleados.length;
     }
 }
 
